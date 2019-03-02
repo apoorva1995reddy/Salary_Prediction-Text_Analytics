@@ -2,4 +2,4 @@
 Sometimes github fails to render the ipynb notebooks, I believe that is some temporary (and recurring) issue with their backend
 
 # Salary Prediction-Text Analytics
-Salary precidtion from Job Description
+Salary precidtion from Job Description using Naive Bayes 
